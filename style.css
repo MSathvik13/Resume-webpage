@@ -1,0 +1,60 @@
+.feature {
+    max-width: 550px;
+    margin: 0px auto;
+    text-align: center;
+ }
+
+h1 {
+    margin-top: 50px;
+    font-family: "Playwrite NG Modern", cursive;
+    text-align: center;
+    margin-bottom: 50px;
+    color: #1679AB;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+    color: #1679AB;
+}
+
+h3 {
+    color: #1679AB;
+}
+
+#app {
+    font-weight: bold;
+}
+
+.hero {
+    background-color: #DFF5FF;
+}
+
+.feature-icon {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.profile-pic {
+    display: block;
+    margin: auto;
+    height: 200px;
+    border-radius: 50%;
+}
+
+#about {
+    text-align: center;
+    font-size: large;
+    margin-left: 50px;
+    margin-right: 50px
+}
+
+#footer {
+    background-color: #4B70F5;
+}
+
+.footer-icon {
+    color: white;
+    margin-top: 10px;
+}
+
